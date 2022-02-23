@@ -1,7 +1,7 @@
 window.onload = function(){
     getposition();
 }
-const link = 'https://api.openweathermap.org/data/2.5/weather?lat=36.111004&lon=128.158282&appid=16be444d79e7123ea85e80a308924fe6&units=metric';
+const link = 'https://api.openweathermap.org/data/2.5/weather?lat=36.111004&lon=128.158282&appid=&units=metric';
 
 let position; 
 function getposition(){
